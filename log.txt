@@ -1,0 +1,68 @@
+
+] LIRI BOT [
+concert-this :: cradle of filth
+Name of the venue: Winter Invasion Festival
+Location: Bindlach
+Date of event: 11/10/2018
+] -******** e n d ********- [
+
+] LIRI BOT [
+concert-this :: undefined
+I'm sorry nobody is playing in your neighborhood, please try your search again...
+] -******** e n d ********- [
+
+] LIRI BOT [
+spotify-this-song :: Master of Puppets
+Artist(s): Metallica
+The Song's Name: Master of Puppets (Remastered)
+Spotify Preview Link: https://p.scdn.co/mp3-preview/12d4140bb2d0b18aa26cf84c33e4f4efd97fe72b?cid=29a15562f18b48d7adaad6eb563982a6
+Album: Master of Puppets (Remastered Deluxe Box Set)
+] -******** e n d ********- [
+
+] LIRI BOT [
+spotify-this-song :: undefined
+Artist(s): Ace of Base
+The Song's Name: The Sign
+Spotify Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=29a15562f18b48d7adaad6eb563982a6
+Album: Greatest Hits
+] -******** e n d ********- [
+
+] LIRI BOT [
+movie-this :: The Crow
+Movie Title: The Crow
+Year Released: 1994
+IMDB Rating: 7.6
+Rotten Tomatoes Rating: 81%
+Country Produced: USA
+Language of the Movie: English
+Movie Plot: A man brutally murdered comes back to life as an undead avenger of his and his fiancée's murder.
+] -******** e n d ********- [
+
+] LIRI BOT [
+movie-this :: Nightmare on Elm Street
+Movie Title: A Nightmare on Elm Street
+Year Released: 1984
+IMDB Rating: 7.5
+Rotten Tomatoes Rating: 94%
+Country Produced: USA
+Language of the Movie: English
+Movie Plot: The monstrous spirit of a slain janitor seeks revenge by invading the dreams of teenagers whose parents were responsible for his untimely death.
+] -******** e n d ********- [
+
+] LIRI BOT [
+movie-this :: undefined
+Movie Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 67%
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language of the Movie: English, Mohawk
+Movie Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
