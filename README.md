@@ -11,11 +11,11 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
     • Axios
     • Moment
     • DotEnv
-3. For information about a song a user will use the command line and enter `node liri.js spotify-this-song *"99 Red Balloons"*` 
+3. For information about a song a user will use the command line and enter `node liri.js spotify-this-song "99 Red Balloons"` 
    In this case, the song is "99 Red Balloons". Quotation marks are **required** for song titles that contain spaces.
-4. For information about a concert a user will use the command line and enter `node liri.js concert-this *"Metal Church"*` 
+4. For information about a concert a user will use the command line and enter `node liri.js concert-this "Metal Church"` 
    In this example, the band is "Metal Church". Quotation marks are **required** for band names that contain spaces.
-5. For information about a movie a user will use the command line and enter `node liri.js movie-this *"Herbie Goes Bananas"*` 
+5. For information about a movie a user will use the command line and enter `node liri.js movie-this "Herbie Goes Bananas"` 
    In this case, the movie is "Herbie Goes Bananas". Quotation marks are **required** for movie titles that contain spaces.
 
  ## Who will use this repo or project?
