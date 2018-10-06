@@ -1,6 +1,9 @@
 # LIRI Bot
 Meet LIRI. LIRI is like iPhone's SIRI. The difference is while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data.
 
+## Link to video demonstration
+https://drive.google.com/open?id=1LkiiFB3i0v7GEp2mXSNqZ4VN-L1b_Bdo
+
 ## What will it do?
 LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
