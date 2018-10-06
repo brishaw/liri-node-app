@@ -118,7 +118,7 @@ switch (command) {
 
                         var artists = data.artists[0].name;
 
-                        var songName = data.name;
+                        var songTitle = data.name;
 
                         var songUrl = data.preview_url;
 
@@ -132,7 +132,7 @@ switch (command) {
 
                         console.log("Album: " + data.album.name);
 
-                        var text = [logStart + process.argv[2] + " :: " + process.argv[3] + "\n" + "Artist(s): " + artists + "\n" + "The Song's Name: " + songName + "\n" + "Spotify Preview Link: " + songUrl + "\n" + "Album: " + songAlbum + logEnd];
+                        var text = [logStart + process.argv[2] + " :: " + process.argv[3] + "\n" + "Artist(s): " + artists + "\n" + "The Song's Name: " + songTitle + "\n" + "Spotify Preview Link: " + songUrl + "\n" + "Album: " + songAlbum + logEnd];
 
                         fs.appendFile("log.txt", text, function (err) {
 
@@ -168,7 +168,7 @@ switch (command) {
 
                     query: songName,
 
-                    limit: 1
+                    limit: 10
                 },
 
                 function (err, data) {
@@ -185,7 +185,7 @@ switch (command) {
 
                         var artists = songInfo.artists[0].name;
 
-                        var songName = songInfo.name;
+                        var songTitle = songInfo.name;
 
                         var songUrl = songInfo.preview_url;
 
@@ -198,8 +198,8 @@ switch (command) {
                         console.log("Spotify Preview Link: " + songInfo.preview_url);
 
                         console.log("Album: " + songInfo.album.name);
-
-                        var text = [logStart + process.argv[2] + " :: " + process.argv[3] + "\n" + "Artist(s): " + artists + "\n" + "The Song's Name: " + songName + "\n" + "Spotify Preview Link: " + songUrl + "\n" + "Album: " + songAlbum + logEnd];
+                        
+                        // var text = [logStart + process.argv[2] + " :: " + process.argv[3] + "\n" + "Artist(s): " + artists + "\n" + "The Song's Name: " + songTitle + "\n" + "Spotify Preview Link: " + songUrl + "\n" + "Album: " + songAlbum + logEnd];
 
                         fs.appendFile("log.txt", text, function (err) {
 
@@ -290,7 +290,7 @@ switch (command) {
                 console.log("Movie Plot: " + resp.data.Plot);
                 console.log("Movie Actors: " + resp.data.Actors);
 
-                var text = [logStart + process.argv[2] + " :: " + process.argv[3] + "\n" + "Movie Title: " + resp.data.Title + "\n" + "Year Released: " + resp.data.Year + "\n" + "IMDB Rating: " + resp.data.imdbRating + "\n" + "Rotten Tomatoes Rating: " + resp.data.Ratings[1].Value + "\n" + "Country Produced: " + resp.data.Country + "\n" + "Language of the Movie: " + resp.data.Language + "\n" + "Movie Plot: " + resp.data.Plot + logEnd];
+                //var text = [logStart + process.argv[2] + " :: " + process.argv[3] + "\n" + "Movie Title: " + resp.data.Title + "\n" + "Year Released: " + resp.data.Year + "\n" + "IMDB Rating: " + resp.data.imdbRating + "\n" + "Rotten Tomatoes Rating: " + resp.data.Ratings[1].Value + "\n" + "Country Produced: " + resp.data.Country + "\n" + "Language of the Movie: " + resp.data.Language + "\n" + "Movie Plot: " + resp.data.Plot + logEnd];
 
                 fs.appendFile("log.txt", text, function (err) {
 
@@ -365,7 +365,7 @@ switch (command) {
 
                     var artists = songInfo.artists[0].name;
 
-                    var songName = songInfo.name;
+                    var songTitle = songInfo.name;
 
                     var songUrl = songInfo.preview_url;
 
@@ -379,7 +379,7 @@ switch (command) {
 
                     console.log("Album: " + songInfo.album.name);
 
-                    var text = [logStart + process.argv[2] + " :: " + artists + "\n" + "The Song's Name: " + songName + "\n" + "Spotify Preview Link: " + songUrl + "\n" + "Album: " + songAlbum + logEnd];
+                    var text = [logStart + process.argv[2] + " :: " + artists + "\n" + "The Song's Name: " + songTitle + "\n" + "Spotify Preview Link: " + songUrl + "\n" + "Album: " + songAlbum + logEnd];
 
                     fs.appendFile("log.txt", text, function (err) {
 
@@ -410,8 +410,4 @@ switch (command) {
         console.log("I'm so sorry, but your search returned no valuable results...");
     
 } // end switch
-
-
-
-
 

@@ -66,3 +66,357 @@ The Song's Name: I Want It That Way
 Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
 Album: The Hits--Chapter One
 ] -******** e n d ********- [
+
+] LIRI BOT [
+concert-this :: Cradle of Filth
+Name of the venue: Winter Invasion Festival
+Location: Bindlach
+Date of event: 11/10/2018
+] -******** e n d ********- [
+
+] LIRI BOT [
+concert-this :: undefined
+I'm sorry nobody is playing in your neighborhood, please try your search again...
+] -******** e n d ********- [
+
+] LIRI BOT [
+concert-this :: undefined
+I'm sorry nobody is playing in your neighborhood, please try your search again...
+] -******** e n d ********- [
+
+] LIRI BOT [
+spotify-this-song :: On the Road Again
+Artist(s): Willie Nelson
+The Song's Name: On the Road Again
+Spotify Preview Link: https://p.scdn.co/mp3-preview/7524149be7ae1fff89e7aacaad388f20bd8ff55d?cid=29a15562f18b48d7adaad6eb563982a6
+Album: Greatest Hits (& Some That Will Be)
+] -******** e n d ********- [
+
+] LIRI BOT [
+spotify-this-song :: undefined
+Artist(s): Ace of Base
+The Song's Name: The Sign
+Spotify Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=29a15562f18b48d7adaad6eb563982a6
+Album: Greatest Hits
+] -******** e n d ********- [
+
+] LIRI BOT [
+movie-this :: nightmare on elm street
+Movie Title: A Nightmare on Elm Street
+Year Released: 1984
+IMDB Rating: 7.5
+Rotten Tomatoes Rating: 94%
+Country Produced: USA
+Language of the Movie: English
+Movie Plot: The monstrous spirit of a slain janitor seeks revenge by invading the dreams of teenagers whose parents were responsible for his untimely death.
+] -******** e n d ********- [
+
+] LIRI BOT [
+movie-this :: undefined
+Movie Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 67%
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language of the Movie: English, Mohawk
+Movie Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Drake
+The Song's Name: In My Feelings
+Spotify Preview Link: null
+Album: Scorpion
+] -******** e n d ********- [
+
+] LIRI BOT [
+spotify-this-song :: undefined
+Artist(s): Ace of Base
+The Song's Name: The Sign
+Spotify Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=29a15562f18b48d7adaad6eb563982a6
+Album: Greatest Hits
+] -******** e n d ********- [
+
+] LIRI BOT [
+spotify-this-song :: blue
+Artist(s): Drake
+The Song's Name: Blue Tint
+Spotify Preview Link: null
+Album: Scorpion
+] -******** e n d ********- [
+
+] LIRI BOT [
+spotify-this-song :: blue moon
+Artist(s): King Krule
+The Song's Name: Baby Blue
+Spotify Preview Link: https://p.scdn.co/mp3-preview/3c189809fe2aad2ac9933c752c7fdccf52a8978b?cid=29a15562f18b48d7adaad6eb563982a6
+Album: 6 Feet Beneath The Moon
+] -******** e n d ********- [
+
+] LIRI BOT [
+spotify-this-song :: the red
+Artist(s): Red Hot Chili Peppers
+The Song's Name: Under The Bridge
+Spotify Preview Link: https://p.scdn.co/mp3-preview/90e41778392f27b6f7dd82db4c90916b3727aa6a?cid=29a15562f18b48d7adaad6eb563982a6
+Album: Blood Sugar Sex Magik (Deluxe Version)
+] -******** e n d ********- [
+
+] LIRI BOT [
+spotify-this-song :: the red
+Artist(s): Red Hot Chili Peppers
+The Song's Name: Under The Bridge
+Spotify Preview Link: https://p.scdn.co/mp3-preview/90e41778392f27b6f7dd82db4c90916b3727aa6a?cid=29a15562f18b48d7adaad6eb563982a6
+Album: Blood Sugar Sex Magik (Deluxe Version)
+] -******** e n d ********- [
+
+] LIRI BOT [
+spotify-this-song :: under the bridge
+Artist(s): Red Hot Chili Peppers
+The Song's Name: Under The Bridge
+Spotify Preview Link: https://p.scdn.co/mp3-preview/90e41778392f27b6f7dd82db4c90916b3727aa6a?cid=29a15562f18b48d7adaad6eb563982a6
+Album: Blood Sugar Sex Magik (Deluxe Version)
+] -******** e n d ********- [
+undefined
+] LIRI BOT [
+spotify-this-song :: mr blue
+Artist(s): Electric Light Orchestra
+The Song's Name: Mr. Blue Sky
+Spotify Preview Link: https://p.scdn.co/mp3-preview/bb98f258a01d52c9b1c86ae82c67132bd52f29af?cid=29a15562f18b48d7adaad6eb563982a6
+Album: Out of the Blue
+] -******** e n d ********- [
+undefined
+] LIRI BOT [
+spotify-this-song :: undefined
+Artist(s): Ace of Base
+The Song's Name: The Sign
+Spotify Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=29a15562f18b48d7adaad6eb563982a6
+Album: Greatest Hits
+] -******** e n d ********- [
+
+] LIRI BOT [
+spotify-this-song :: undefined
+Artist(s): Ace of Base
+The Song's Name: The Sign
+Spotify Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=29a15562f18b48d7adaad6eb563982a6
+Album: Greatest Hits
+] -******** e n d ********- [
+undefinedundefinedundefinedundefinedundefined
+] LIRI BOT [
+movie-this :: the notebook
+Movie Title: The Notebook
+Year Released: 2004
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 52%
+Country Produced: USA
+Language of the Movie: English
+Movie Plot: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+concert-this :: In Flames
+Name of the venue: Brooklyn Bowl Las Vegas
+Location: Las Vegas
+Date of event: 10/29/2018
+] -******** e n d ********- [
+
+] LIRI BOT [
+concert-this :: Garth Brooks
+Name of the venue: Notre Dame Stadium
+Location: Notre Dame
+Date of event: 10/20/2018
+] -******** e n d ********- [
+
+] LIRI BOT [
+spotify-this-song :: undefined
+Artist(s): Ace of Base
+The Song's Name: The Sign
+Spotify Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=29a15562f18b48d7adaad6eb563982a6
+Album: Greatest Hits
+] -******** e n d ********- [
+undefinedundefined
+] LIRI BOT [
+movie-this :: undefined
+Movie Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 67%
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language of the Movie: English, Mohawk
+Movie Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
+
+] LIRI BOT [
+concert-this :: undefined
+I'm sorry nobody is playing in your neighborhood, please try your search again...
+] -******** e n d ********- [
+
+] LIRI BOT [
+concert-this :: undefined
+I'm sorry nobody is playing in your neighborhood, please try your search again...
+] -******** e n d ********- [
+
+] LIRI BOT [
+concert-this :: In Flames
+Name of the venue: Brooklyn Bowl Las Vegas
+Location: Las Vegas
+Date of event: 10/29/2018
+] -******** e n d ********- [
+
+] LIRI BOT [
+concert-this :: Garth Brooks
+Name of the venue: Notre Dame Stadium
+Location: Notre Dame
+Date of event: 10/20/2018
+] -******** e n d ********- [
+
+] LIRI BOT [
+spotify-this-song :: undefined
+Artist(s): Ace of Base
+The Song's Name: The Sign
+Spotify Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=29a15562f18b48d7adaad6eb563982a6
+Album: Greatest Hits
+] -******** e n d ********- [
+undefinedundefined
+] LIRI BOT [
+movie-this :: undefined
+Movie Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 67%
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language of the Movie: English, Mohawk
+Movie Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+] -******** e n d ********- [
+
+] LIRI BOT [
+do-what-it-says :: Backstreet Boys
+The Song's Name: I Want It That Way
+Spotify Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=29a15562f18b48d7adaad6eb563982a6
+Album: The Hits--Chapter One
+] -******** e n d ********- [
